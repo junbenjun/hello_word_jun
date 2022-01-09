@@ -3,10 +3,10 @@ echo 'making c project files ...'
 
 project=default
 if [ ! $1 ]; then
-    echo 'input a project name'
+    echo '============input a project name first !!!!!=============='
     exit
 else
-    echo 'inpputed project is' $1
+    echo '============inpputed project is:' $1 '==================='
     project=$1
 fi
 rm -rf ./$project
