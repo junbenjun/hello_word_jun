@@ -1,6 +1,6 @@
 #! /bin/bash
 echo 'making c project files ...'
-echo 'modify from win10'
+
 project=default
 if [ ! $1 ]; then
     echo '============input a project name first !!!!!=============='
