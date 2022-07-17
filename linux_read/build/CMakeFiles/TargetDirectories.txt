@@ -1,0 +1,3 @@
+/usr1/hello_word_jun/linux_read/build/CMakeFiles/rebuild_cache.dir
+/usr1/hello_word_jun/linux_read/build/CMakeFiles/edit_cache.dir
+/usr1/hello_word_jun/linux_read/build/CMakeFiles/run.dir
