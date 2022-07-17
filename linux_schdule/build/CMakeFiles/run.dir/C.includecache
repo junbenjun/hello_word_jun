@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr1/hello_word_jun/linux_schdule/src/schedule.c
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+unistd.h
+-
+
